@@ -1,6 +1,8 @@
 h1{color: floralwhite ;
 text-align: center;
-font-size: 40px}
+font-size: 40px ;font-family: monospace;
+  
+}
 
 body{background: paleturquoise;}
 
@@ -17,3 +19,10 @@ input[type="text"]
 margin: 10%;
   
 }
+
+input [type="submit"]{color: lightskyblue;
+  display: flex;
+}
+#submit { width: 300px;height: 40px;background: powderblue;font: bold;}
+
+
