@@ -1,4 +1,19 @@
-h1{color: skyblue;text-align: center;padding: 0%;}
-form{background: lightblue;padding: 20%;
+h1{color: floralwhite ;
+text-align: center;
+font-size: 40px}
+
+body{background: paleturquoise;}
+
+form{margin: 20px 
+auto;width: 200px;padding: 20px auto;
+  
+}
+
+input{padding: 5%;
+font-size: inherit}
+
+input[type="text"]
+{display: block;
+margin: 10%;
   
 }
