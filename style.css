@@ -7,7 +7,7 @@ font-size: 40px ;font-family: monospace;
 body{background: paleturquoise;}
 
 form{margin: 20px 
-auto;width: 200px;padding: 20px auto;
+auto;width: 250px;padding: 20px auto;height:;
   
 }
 
@@ -23,6 +23,14 @@ margin: 10%;
 input [type="submit"]{color: lightskyblue;
   display: flex;
 }
-#submit { width: 300px;height: 40px;background: powderblue;font: bold;}
+#submit 
+{width:200px;
+height: 40px;
+background: powderblue;
+font: bold;
+margin:20px auto;
+padding:20pxauto
+
+}
 
 
